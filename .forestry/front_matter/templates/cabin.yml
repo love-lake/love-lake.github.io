@@ -9,4 +9,5 @@ fields:
   name: title
   label: title
 pages:
+- about.md
 - cabins/john-saunders.md
