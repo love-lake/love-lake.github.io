@@ -22,3 +22,6 @@ p {
 p:nth-of-type(1)::first-line {
 	font-weight: 800;
 }
+p img {
+	width: 100%;
+}
