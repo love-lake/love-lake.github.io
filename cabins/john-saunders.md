@@ -7,4 +7,4 @@ title: John Saunders
 
 ![](/assets/img/love-lake-cropped.jpg)
 
-I am an editor!
+Take this away.
