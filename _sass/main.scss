@@ -1,0 +1,24 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	font-family: "PT Serif";
+	font-size: 60px;
+	line-height: 90px;
+	margin-bottom: 30px;
+	text-align: center;
+}
+p {
+	font-family: "PT Serif";
+	font-size: 20px;
+	line-height: 30px;
+	max-width: 600px;
+	margin-bottom: 30px;
+	margin-left: auto;
+	margin-right: auto;
+}
+p:nth-of-type(1)::first-line {
+	font-weight: 800;
+}
