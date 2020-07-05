@@ -5,7 +5,7 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: data_
+  path: _data
   label: Data
   create: all
   match: "**/*.yaml"
