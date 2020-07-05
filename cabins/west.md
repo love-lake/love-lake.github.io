@@ -1,9 +1,11 @@
 ---
-layout: "cabin"
-title: "The West Cabin"
----
+layout: cabin
+title: The West Cabin
 
+---
 # {{page.title}}
+
+![](/assets/img/west-cabin.jpg)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nec dui nunc mattis enim ut tellus elementum sagittis vitae. Amet nisl suscipit adipiscing bibendum. At quis risus sed vulputate odio ut. Mi ipsum faucibus vitae aliquet nec ullamcorper sit amet risus. Dignissim suspendisse in est ante. Eu scelerisque felis imperdiet proin fermentum leo vel orci porta. Faucibus scelerisque eleifend donec pretium vulputate. Viverra aliquet eget sit amet. Enim sit amet venenatis urna cursus eget nunc. Facilisis magna etiam tempor orci eu lobortis. Arcu cursus euismod quis viverra. Ut aliquam purus sit amet luctus. Turpis cursus in hac habitasse platea. Gravida cum sociis natoque penatibus et magnis dis parturient. Morbi tincidunt ornare massa eget. Nunc consequat interdum varius sit.
 
