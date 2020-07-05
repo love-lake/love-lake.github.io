@@ -11,16 +11,6 @@ const flags = [
 		size: 9,
 		coordinates: [-92.317706, 45.978188],
 	},
-	{
-		label: "Bricher Lake",
-		size: 9,
-		coordinates: [-92.343053, 45.964987],
-	},
-	{
-		label: "Minnow Lake",
-		size: 9,
-		coordinates: [-92.308781, 45.970584],
-	},
 ];
 
 const width = window.innerWidth;
